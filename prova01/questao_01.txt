@@ -1,0 +1,6 @@
+Linha 10: A tag <strong> está incompleta, o que poderia ser feito é a adição de </strong> ao final do intervalo em que se deseja que a tag seja aplicada.
+Linha 8: Nas dimensões da imagem width e height está faltando a unidade absoluta, poderia ser feito algo como width = "260px" e height = "111px"
+Linha 2: Está faltando a tag que inicia o documento html, deve ser adicionado depois da linha dois um <html> e no final do código um </html>
+Linha 4: O título deveria ser indicado com a tag <title> e não com <h1>.
+
+
