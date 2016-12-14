@@ -1,0 +1,42 @@
+commit 046d3d8ff104fd60d31226a5dd0eb3cc7aeac428
+Author: Felipe Santos <fdms@icomp.ufam.edu.br>
+Date:   Wed Dec 14 17:09:21 2016 -0400
+
+    Adicionado questões 3 e 4 da prova
+
+commit 82d48d8de48c14a8303246d16a9b75fa155d053a
+Author: Felipe Santos <fdms@icomp.ufam.edu.br>
+Date:   Wed Dec 14 16:24:28 2016 -0400
+
+    Respondida a questao 1
+
+commit 9f89cb309ae6927c2c057974a4f67bf434c7d86b
+Author: Felipe Santos <fdms@icomp.ufam.edu.br>
+Date:   Tue Dec 13 23:22:41 2016 -0400
+
+    Adicionando arquivos do Js1
+
+commit 6c0348efec6983b21d012a6a5fd9101bcfc1efef
+Author: felipedmsantos95 <fdms@icomp.ufam.edu.br>
+Date:   Mon Dec 12 17:03:29 2016 -0400
+
+    Rename jss2.html to js2.html
+
+commit e6af2bc3daf5425e1e67224db1b7a885696cf574
+Author: felipedmsantos95 <fdms@icomp.ufam.edu.br>
+Date:   Mon Dec 12 16:05:28 2016 -0400
+
+    Rename js2.html to jss2.html
+
+commit b84c5a05679a3b8f300cc77f41a5baaa05ce9c84
+Author: felipedmsantos95 <fdms@icomp.ufam.edu.br>
+Date:   Mon Dec 12 15:49:37 2016 -0400
+
+    Add files via upload
+
+commit eb149e2f6273f297bbd1865e5765be3d19eb2746
+Author: felipedmsantos95 <fdms@icomp.ufam.edu.br>
+Date:   Wed Dec 7 17:32:49 2016 -0400
+
+
+a) Working Directory é o diretório de trabalho onde estão os arquivos do repositório, Index é o local onde estão adicionados os arquivos que sofreram modificações e o repository é onde estão os arquivos que foram commitados, ou seja as alterações foram salvas e os arquivos versionados.
