@@ -1,0 +1,27 @@
+As 3 formas:
+
+1. Utilizar o seletor de tipo span;
+2. Pode ser utilizado o seletor de atributo "css"
+
+Seletor 1 sendo identificado: 
+<style type = "text-css">
+span{
+
+};
+</style>
+
+
+<p> Estou aprendendo <span* class = "cl1" title = "css"> CSS </span>. </p>
+
+
+Seletor 2 sendo identificado: 
+
+<style type = "text-css">
+#css {
+
+};
+</style>
+
+
+
+<p> Estou aprendendo <span class = "cl1" title = "css"*> CSS </span>. </p>
