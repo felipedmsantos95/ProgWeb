@@ -25,3 +25,6 @@ Seletor 2 sendo identificado:
 
 
 <p> Estou aprendendo <span class = "cl1" title = "css"*> CSS </span>. </p>
+
+Nota: 0.7
+Apenas o primeiro seletor (span) está correto.

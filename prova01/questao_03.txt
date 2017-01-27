@@ -1,1 +1,4 @@
 Hoisting é uma propriedade em códigos javascript que afeta o modo como são exergadas as declarações de variáveis, pois uma função pode chamar uma variável na qual ainda não tenha sido declarada previamente.
+
+Nota: 0.5
+Conceito de hoisting com erros, e código javascript não elaborado.
