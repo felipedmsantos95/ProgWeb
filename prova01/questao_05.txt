@@ -40,3 +40,6 @@ Date:   Wed Dec 7 17:32:49 2016 -0400
 
 
 a) Working Directory é o diretório de trabalho onde estão os arquivos do repositório, Index é o local onde estão adicionados os arquivos que sofreram modificações e o repository é onde estão os arquivos que foram commitados, ou seja as alterações foram salvas e os arquivos versionados.
+
+Nota: 1.8
+Conceito de index reportado com erros.

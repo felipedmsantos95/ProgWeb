@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Nota: 1.0. Código javascript com erros. Tabela com estilos errados.
 <html>
 <head>
 	<meta charset="utf-8">
@@ -15,15 +16,15 @@
 		n = Math.floor((Math.random() * 10) + 1);
 		function tabela(n)
 		{
-			document.Write("<table>");
+			document.write("<table>");
 			for(var i = 1; i <= 10; i++)
 			{
 				str = i + " X " + n;
 				valor = i * n;
-				document.Write("<thead colspan = '2'> Produto de " + n + "</thead>");
-				document.Write("<tr> <td>" + str + "</td> <td>" + valor + "</td></tr>");
+				document.write("<thead colspan = '2'> Produto de " + n + "</thead>");
+				document.write("<tr> <td>" + str + "</td> <td>" + valor + "</td></tr>");
 			}
-			document.Write("</table>");
+			document.write("</table>");
 			
 		}		
 	</script>
